@@ -1,6 +1,9 @@
 ---
-title: "Template"
-format: html
+title: "Lab 1 Workup"
+format: 
+  html: 
+    code-fold: true
+    toc: true
 execute:
   eval: false
 ---
